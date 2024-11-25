@@ -17,7 +17,7 @@
 - 👨‍💻 As a programming student, I'm constantly learning and exploring new technologies to enhance my skills.  
 - 💬 Feel free to ask me about **HTML**, **CSS**, or anything related to **web development**.  
 - ⚡ **Fun Fact**: I'm a **coffee enthusiast** ☕, and my perfect day would start and end with a cup of coffee while coding.  
-- 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/ahmed-mahmoud-mmd1) to see some of the projects I've worked on.
+- 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/ahmedmahmoudmmd2/) to see some of the projects I've worked on.
 
 <div align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="50px">
@@ -25,7 +25,7 @@
 
 ## Connect with Me:
 <div align="center">
-  <a href="www.linkedin.com/in/ahmedmahmoudmmd2" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedmahmoudmmd2/" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:ahmedmahmoudmmd2@gmail.com" target="_blank"></a>
